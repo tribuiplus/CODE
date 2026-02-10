@@ -14,3 +14,24 @@ thực hành
 
 Linux/Docker/Kubernetes
 Cloud/Ansible/Terraform
+
+
+cronjob/scheduler
+
+SRE
+Platform engineer
+Platform automation
+DevSecOps
+
+CICD
+Container
+IaC
+Cloud
+Monitoring
+Programming
+
+Ansible Automation Platform
+OPA
+
+code Ansible.yml, Terraform.tf, script.sh
+.rego, .json, .py, .go, .md, .conf/.cnf
