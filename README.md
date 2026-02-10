@@ -35,3 +35,5 @@ OPA
 
 code Ansible.yml, Terraform.tf, script.sh
 .rego, .json, .py, .go, .md, .conf/.cnf
+
+Cost Optimization
