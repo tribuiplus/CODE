@@ -37,3 +37,7 @@ code Ansible.yml, Terraform.tf, script.sh
 .rego, .json, .py, .go, .md, .conf/.cnf
 
 Cost Optimization
+FinOps
+
+https://anonyviet.com/huong-dan-nhan-chatgpt-plus-mien-phi-1-thang-thanh-cong-100/
+https://anonyviet.com/cach-nhan-chatgpt-plus-12-thang-mien-phi-qua-uu-dai-quan-nhan/
